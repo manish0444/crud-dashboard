@@ -26,7 +26,7 @@ The project provides a user-friendly interface for viewing, creating, editing, a
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/manish0444/crud-dashboard.git>
+   git clone https://github.com/manish0444/crud-dashboard.git
    cd crud-dashboard
    ```
 2. Install dependencies:

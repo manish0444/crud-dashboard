@@ -1,3 +1,6 @@
+#Live Demo
+https://crud-dashboard-eta.vercel.app/
+
 # CRUD Dashboard
 
 This is a **CRUD Dashboard** project built with **Next.js** and **Material UI**. It allows users to perform various CRUD operations on posts using the JSONPlaceholder API.
@@ -23,7 +26,7 @@ The project provides a user-friendly interface for viewing, creating, editing, a
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/manish0444/crud-dashboard.git>
    cd crud-dashboard
    ```
 2. Install dependencies:
